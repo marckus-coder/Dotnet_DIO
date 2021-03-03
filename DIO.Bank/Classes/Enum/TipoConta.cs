@@ -5,4 +5,6 @@ namespace DIO.Bank
       PessoaFisica = 1,
       PessoaJuridica = 2  
     } 
+
+}
     

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\watan\\DIO\\DIO.Bank\\DIO.Bank.csproj",
+      "projectUniqueName": "C:\\Users\\watan\\Documents\\C#\\Dotnet_DIO\\DIO.Bank\\DIO.Bank.csproj",
       "projectName": "DIO.Bank",
-      "projectPath": "C:\\Users\\watan\\DIO\\DIO.Bank\\DIO.Bank.csproj",
+      "projectPath": "C:\\Users\\watan\\Documents\\C#\\Dotnet_DIO\\DIO.Bank\\DIO.Bank.csproj",
       "packagesPath": "C:\\Users\\watan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\watan\\DIO\\DIO.Bank\\obj\\",
+      "outputPath": "C:\\Users\\watan\\Documents\\C#\\Dotnet_DIO\\DIO.Bank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\watan\\AppData\\Roaming\\NuGet\\NuGet.Config"

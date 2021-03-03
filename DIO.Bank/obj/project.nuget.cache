@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3aNopffkiaAGWGI4iNI2+U/EGdbW7C5K8547LjmYg1WJops1S1k+uo3Qp5TjoRjiQhI67AXzcWd7ojQSdvKqxg==",
+  "dgSpecHash": "3btFGtRjdnMF80u29ZwkhDTSUbhDINw4kq4uU5IqWDALY0Lu6VbnayanFrvDd6xQshMwUzj5W822c7HpIf6vcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\watan\\DIO\\DIO.Bank\\DIO.Bank.csproj",
+  "projectFilePath": "C:\\Users\\watan\\Documents\\C#\\Dotnet_DIO\\DIO.Bank\\DIO.Bank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
