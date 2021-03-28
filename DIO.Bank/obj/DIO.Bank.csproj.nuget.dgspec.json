@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\watan\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\watan\\Documents\\C#\\Dotnet_DIO\\DIO.Bank\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\watan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
